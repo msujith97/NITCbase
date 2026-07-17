@@ -1,0 +1,11 @@
+.DS_Store
+
+# Compiled executables
+mynitcbase/nitcbase
+mynitcbase/nitcbase-debug
+
+# Object files
+*.o
+
+# Editor settings
+.vscode/
